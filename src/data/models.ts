@@ -37,39 +37,6 @@ export const AVAILABLE_MODELS: LLMModel[] = [
     contextSize: 8192,
   },
   {
-    id: "qwen-1.8b-chat-q4",
-    name: "Qwen 1.8B Chat – Q4_K_M",
-    size: 1_020_000_000, // ~1.02 GB
-    description:
-      "Alibaba Qwen 1.8B – excellent Chinese + English bilingual model.",
-    downloadUrl:
-      "https://huggingface.co/TheBloke/Qwen1.8B-Chat-GGUF/resolve/main/qwen1.8b-chat.Q4_K_M.gguf",
-    filename: "qwen1.8b-chat.Q4_K_M.gguf",
-    contextSize: 32768,
-  },
-  {
-    id: "qwen3-0.6b-q4",
-    name: "Qwen3 0.6B – Q4_K_M",
-    size: 370_000_000, // ~370 MB
-    description:
-      "Alibaba Qwen3 0.6B – ultra-compact next-gen model with strong reasoning.",
-    downloadUrl:
-      "https://huggingface.co/TheBloke/Qwen3-0.6B-GGUF/resolve/main/qwen3-0.6b.Q4_K_M.gguf",
-    filename: "qwen3-0.6b.Q4_K_M.gguf",
-    contextSize: 32768,
-  },
-  {
-    id: "qwen3-4b-instruct-q4",
-    name: "Qwen3 4B Instruct – Q4_K_M",
-    size: 2_400_000_000, // ~2.4 GB
-    description:
-      "Alibaba Qwen3 4B Instruct – powerful instruction-tuned model with 128K context.",
-    downloadUrl:
-      "https://huggingface.co/TheBloke/Qwen3-4B-Instruct-GGUF/resolve/main/qwen3-4b-instruct.Q4_K_M.gguf",
-    filename: "qwen3-4b-instruct.Q4_K_M.gguf",
-    contextSize: 131072,
-  },
-  {
     id: "openchat-3.5-q4",
     name: "OpenChat 3.5 (3B) – Q4_K_M",
     size: 1_950_000_000, // ~1.95 GB
