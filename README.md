@@ -45,7 +45,7 @@ A cross-platform mobile demo application showcasing offline AI model management 
 ## Installation
 
 ```bash
-# Clone the repository
+# Go to the directory
 cd OfflineLLM
 
 # Install dependencies
