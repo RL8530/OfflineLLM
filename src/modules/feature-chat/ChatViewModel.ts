@@ -102,7 +102,7 @@ export class ChatViewModel extends BaseViewModel {
           timestamp: new Date(),
         },
       ],
-      modelId: "phi-2",
+      modelId: "Select a model",
       createdAt: new Date(),
       updatedAt: new Date(),
     };
