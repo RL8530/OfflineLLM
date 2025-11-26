@@ -14,8 +14,6 @@ A cross-platform mobile demo application showcasing offline AI model management 
   <img width="200" alt="Simulator Screenshot - iPhone 16 Pro - 2025-11-26 at 13 50 11" src="https://github.com/user-attachments/assets/831d7a78-a158-42b2-a239-1ca98d2920f5" />
 </p>
 
-
-
 </div>
 
 ## App Screens
@@ -53,14 +51,11 @@ cd OfflineLLM
 # Install dependencies
 npm install
 
-# Start development
-npx expo run:ios
+# Start Android Emulator (setup: https://docs.expo.dev/get-started/set-up-your-environment/?platform=android&device=simulated&mode=development-build)
+npx expo run:android
 
-# How to use the chat
-1. Go to "Downloads" tab
-2. Select a model to download. Phi-2(2.7B)-Q4_K_M is preferred.
-3. go to "Chat" tab and tap "Select a model" to mount the downloaded model.
-4. Done
+# Start iOS Simulator (setup: https://docs.expo.dev/get-started/set-up-your-environment/?platform=ios&device=simulated&mode=development-build)
+npx expo run:ios
 ```
 
 ## How to use the chat
