@@ -9,12 +9,12 @@ A cross-platform mobile demo application showcasing offline AI model management 
   &nbsp; &nbsp; 
   <img width="200" alt="Simulator Screenshot - iPhone 16 Pro - 2025-11-26 at 13 50 00" src="https://github.com/user-attachments/assets/f7e13940-b1be-499a-be10-175a70c53273" />
   &nbsp; &nbsp; 
-  <img width="200" alt="Simulator Screenshot - iPhone 16 Pro - 2025-11-26 at 14 14 29" src="https://github.com/user-attachments/assets/6f9c70b3-05fe-4504-882d-88fe0202d44a" />
+  <img src="/demo.gif" width="200"/>
   &nbsp; &nbsp; 
   <img width="200" alt="Simulator Screenshot - iPhone 16 Pro - 2025-11-26 at 13 50 11" src="https://github.com/user-attachments/assets/831d7a78-a158-42b2-a239-1ca98d2920f5" />
 </p>
 
-<img src="/demo.gif" width="200"/>
+
 
 </div>
 
